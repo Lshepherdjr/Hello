@@ -1,0 +1,14 @@
+body {
+    background-color: gold;
+}
+  
+h1 {
+  color: blue;
+  margin-left: 25px;
+}
+
+#myDiv{
+  background-color: white;
+  border-style: dotted;
+  border-color: green;
+}
